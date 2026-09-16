@@ -13,7 +13,9 @@ An interactive Power BI dashboard analyzing chocolate sales performance across c
 - Gross Profit Margin
 - Total Marketing Spend
 - Revenue breakdown (bar chart) and mix (donut chart)
-- Detailed performance table
+- Detailed performance tablehttps://github.com/Tri-345/Chocolate_Sales_Dashboard/blob/main/Executive_Sales_Perfomance-Screenshot%202026-09-16%20170018.png
+  
+  
 
 ### 2. Product & Market Analysis
 - Interactive slicers by Country and Channel
